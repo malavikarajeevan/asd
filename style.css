@@ -3,7 +3,8 @@
     padding-top: 110px;
     font-size: 3.75rem;
     line-height: 1;
-    font-family: Inter,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-family: Inter,Helvetica neue,Helvetica,Arial,sans-serif;
+    letter-spacing: -.05rem;
     font-weight: 500;
 
 }
@@ -21,11 +22,29 @@
     text-align: center;
     font-size: 1.25rem;
     line-height: 1.75rem;
-    color: rgb(167 114 120);
+    color: rgb(27,25,25);
 }
-.four h1 {
+.six h1 {
     text-align: center;
-    font-size: 1rem;
-    line-height: 1.5rem;
-    color: darkgrey;
+    font-size: 2.35rem;
+    line-height: 1.75rem;
+}
+.six h1{
+    text-align: center;
+    font-size: 1.25rem;
+    line-height: 2.75rem;
+}
+.eight h1{
+    text-align: center;
+}
+.imm img{
+    width: 15rem;
+    height: 15rem;
+    margin: auto;
+    background-color: white;
+    transition: 5s;
+}
+.imm img{
+    width: 70%;
+    margin: 15px 0px;
 }
