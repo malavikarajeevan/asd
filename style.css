@@ -11,12 +11,26 @@
 .one span{
     color:rgb(169 121 43);
 }
-.two h1{
-    text-align: center;
-    font-size: 3.75rem;
-    line-height: 1;
+.one h1{
+    font-size: 65px;
+}
+.four{
+    font-size: 1.5rem;
+}
+.six{
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+}
+.navbar od{
+    font-family:Inter,Helvetica neue,Helvetica,Arial,sans-serif;
+    
+}
+.row .ten{
+    font-size: 1.5rem;
     font-family: Inter,Helvetica neue,Helvetica,Arial,sans-serif;
-    font-weight: 500;
+    color: rgb(75,85,99);
+    text-align: center;
+    margin-top: 400px;
 }
 .three h1{
     text-align: center;
@@ -24,7 +38,7 @@
     line-height: 1.75rem;
     color: rgb(27,25,25);
 }
-.six h1 {
+.six {
     text-align: center;
     font-size: 2.35rem;
     line-height: 1.75rem;
