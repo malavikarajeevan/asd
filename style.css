@@ -33,55 +33,43 @@
     font-size: 2.35rem;
     line-height: 1.75rem;
 }
-.ten h1{
-    ;
-
+.title{
+    padding-left: 350px;
 }
-/* .four{ 
-    font-size: 1.5rem;
-}
-.six{
-    font-size: 1.125rem;
-    line-height: 1.75rem;
-}
-.navbar od{
+/* .row.ten h6{ 
+    font-size: 1.3rem;
+    height: 15rem;
     font-family:Inter,Helvetica neue,Helvetica,Arial,sans-serif;
-    
-}
-.row .ten{
-    font-size: 1.5rem;
-    font-family: Inter,Helvetica neue,Helvetica,Arial,sans-serif;
-    color: rgb(75,85,99);
+    color: rgb(117,117,117);
     text-align: center;
-    margin-top: 400px;
+    margin-top: 40px;
 }
-.three h1{
-    text-align: center;
-    font-size: 1.25rem;
-    line-height: 1.75rem;
-    color: rgb(27,25,25);
-}
-.six {
-    text-align: center;
-    font-size: 2.35rem;
-    line-height: 1.75rem;
-}
-.six h1{
-    text-align: center;
-    font-size: 1.25rem;
-    line-height: 2.75rem;
+.ten h4{
+    padding-top: 50px;
 }
 .eight h1{
+    color: rgb(31,41,55);
     text-align: center;
+    font-size: 1.8rem;
+    font-family: Inter,Helvetica neue,Helvetica,Arial,sans-serif;
 }
-.imm img{
+.imm{
     width: 15rem;
     height: 15rem;
     margin: auto;
     background-color: white;
-    transition: 5s;
+    transition: .5s;
 }
 .imm img{
     width: 70%;
     margin: 15px 0px;
+
 }
+.imm:hover{
+
+}
+ 
+    
+
+   
+    
