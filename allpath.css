@@ -1,6 +1,157 @@
 .abcd{
    padding-left: 15%; 
 }
-.my-5{
+.tp{
+    text-align: center;
+    font-size: 2rem;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+}
+.title{
+    margin-left: 200px;
+}
+.cmm{
+    background-color: white;
+    padding: 40px;
+    margin: 40px;
+}
+.roww{
+    padding-left: 100px;
+}
+.py-5{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.qw{
+    margin-left: 200px;
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2rem;
     text-align: center;
 }
+.mq{
+    text-align: center;
+    
+
+}
+.cbl{
+    padding-top: 1px;
+    padding-bottom: 58px;
+}
+.mq{
+    margin-left: 20px;
+}
+.anz{
+    margin-left: 30px;
+    width: 30rem;
+    height: 40rem;
+    padding-right: 400px;  
+}
+.qq{
+    margin-left: 30px;
+    width: 30rem;
+    height: 40rem;
+    padding-right: 200px;
+}
+.qq h1{
+    font-size: 1.5rem;
+    padding: 10px,10px;
+}
+.qq h3{
+    font-size: 1.2rem;
+    color: darkgrey;
+}
+.qq span{
+    align-self: 1.5rem;
+    color: darkgray;
+}
+.qq h2{
+    font-size: 1rem;
+    color: rgb(107,114,128);
+}
+.pp{
+    margin-left: 30px;
+    width: 30rem;
+    height: 40rem;
+    padding-right: 200px; 
+}
+.pp h1{
+    font-size: 1.5rem;
+    padding: 10px,10px;
+}
+.pp h3{
+    font-size: 1.2rem;
+    color: darkgrey;
+
+}
+.pp span{
+    align-self: 1.5rem;
+    color: darkgray; 
+}
+.pp h2{
+    font-size: 1rem;
+    color: rgb(107,114,128);
+}
+.sprt{
+    text-align: center;
+    font-size: 2rem;
+    padding-bottom: 20px;
+    padding-top: 40px;
+}
+.hhh{
+    text-align: center;
+    font-size: .955rem;
+    color: rgb(107, 109, 108);
+}
+.lmi{
+    padding-right: 80px;
+}
+.lmi.btn{
+    padding: 10px 15px;
+}
+.lmo{
+    padding-left: 80px;
+}
+.lmo .btn{
+    padding: 10px 15px;
+}
+.thelast{
+    padding-bottom: 80px;
+}
+.final{
+    margin: 0px 400px;
+    margin-bottom: 100px;
+}
+.final h1{
+    font-size: .99rem;
+}
+.final p{
+    font-size: .90rem;
+    color: rgb(75,85,99);
+}
+.twit{
+    display: inline;
+    width: 3.5rem;
+    padding-left: 1.5rem;
+}
+.fb{
+    display: inline;
+    width: 3.5rem;
+    padding-left: 1.5rem;
+}
+.gth{
+    display: inline;
+    width: 3.5rem;
+    padding-left: 1.5rem;
+}
+.disc{
+    display: inline;
+    width: 3.5rem;
+    padding-left: 1.5rem;
+}
+.wm{
+    font-size: .75rem;
+    color: rgb(4, 73, 64);
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
