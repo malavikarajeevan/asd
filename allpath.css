@@ -10,87 +10,99 @@
 .title{
     margin-left: 200px;
 }
-.cmm{
-    background-color: white;
-    padding: 40px;
-    margin: 40px;
-}
-.roww{
-    padding-left: 100px;
-}
-.py-5{
+.ag{
+    text-align: center;
     font-family: Arial, Helvetica, sans-serif;
 }
-.qw{
-    margin-left: 200px;
-    color: gray;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 2rem;
-    text-align: center;
-}
-.mq{
-    text-align: center;
-    
-
+.anz h1{
+    font-size: 2.5rem;
+    padding:20px,20px
 }
 .cbl{
     padding-top: 1px;
     padding-bottom: 58px;
 }
-.mq{
+.an{
     margin-left: 20px;
 }
-.anz{
-    margin-left: 30px;
+.rs{
+    margin-left: 500px;
     width: 30rem;
-    height: 40rem;
-    padding-right: 400px;  
-}
-.qq{
-    margin-left: 30px;
-    width: 30rem;
-    height: 40rem;
+    height: 30rem;
+    height: 30rem;
     padding-right: 200px;
+   
 }
-.qq h1{
-    font-size: 1.5rem;
-    padding: 10px,10px;
-}
-.qq h3{
-    font-size: 1.2rem;
-    color: darkgrey;
-}
-.qq span{
-    align-self: 1.5rem;
-    color: darkgray;
-}
-.qq h2{
-    font-size: 1rem;
-    color: rgb(107,114,128);
-}
-.pp{
-    margin-left: 30px;
+.rs1{
+    margin-left: 500px;
     width: 30rem;
-    height: 40rem;
-    padding-right: 200px; 
-}
-.pp h1{
-    font-size: 1.5rem;
-    padding: 10px,10px;
-}
-.pp h3{
-    font-size: 1.2rem;
-    color: darkgrey;
+    height: 30rem;
+    height: 30rem;
+    padding-right: 200px;
+    
 
 }
-.pp span{
-    align-self: 1.5rem;
-    color: darkgray; 
+.rs h1{
+    font-size: 1.5rem;
+    padding: 10px 10px;
 }
-.pp h2{
-    font-size: 1rem;
+.rs h3{
+    font-size: 1.2rem;
+    color: darkgray;
+}
+.rs span{
+   align-self: 1.5rem;
+   color: darkgray;
+   padding-left: 400px;
+}
+.rs h2{
+    font-size: 1.2rem;
     color: rgb(107,114,128);
 }
+.rs1 h1{
+    font-size: 1.5rem;
+    padding: 10px 10px;
+
+}
+.rs1 h3{
+    font-size: 1.2rem;
+    color: darkgray;
+}
+.rs1 h2{
+    color: rgb(107,114,128);
+    font-size: 1.2rem;
+}
+.rs1 span{
+    align-self: 1.5rem;
+    color: darkgray;
+    padding-left: 300px;
+}
+.an img{
+    width: 100px;
+    margin: auto;
+}
+.tle h2{
+    font-size: 1.5rem;
+    color: rgb(107,114,128);
+    padding: 20px 20px;
+    margin: 20px 20px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.km{
+    background-color: rgb(100 99 99);
+    color: white;
+}
+.arz{
+    width: 60rem;
+    margin: auto;
+    background-color: rgb(254,255,255);
+    padding-top: 30px;
+    margin-bottom: 60px;
+    padding-bottom: 20px;
+}
+
+
 .sprt{
     text-align: center;
     font-size: 2rem;
