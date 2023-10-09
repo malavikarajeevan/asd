@@ -1,0 +1,22 @@
+.abcd{
+    padding-left: 15%;
+}
+.mm h1{
+    text-align: center;
+}
+.mm h4{
+    text-align: center;
+}
+ form{
+    width: 300px;
+    margin-left: 500px;
+    line-height: 2rem;
+
+}
+form label{
+    display: flex;
+    margin-top: 20px;
+    font-size: 18px;
+}
+form input{
+}
