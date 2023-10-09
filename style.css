@@ -72,9 +72,10 @@
     padding: 15px 22px;
     color: rgb(32,32,32);
 }
-.ruby h3{
-    font: 1.3rem;
-    color: gray;
+.ruby h1{
+    font-size: 1.2rem;
+    color: rgb(54, 51, 51);
+    
 }
 .ktm{
     background-color: rgb(243,244,246);
