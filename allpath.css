@@ -26,18 +26,16 @@
     margin-left: 20px;
 }
 .rs{
-    margin-left: 500px;
+    margin-left: 300px;
     width: 30rem;
-    height: 30rem;
-    height: 30rem;
+    height: 40rem;
     padding-right: 200px;
    
 }
 .rs1{
-    margin-left: 500px;
+    margin-left: 300px;
     width: 30rem;
-    height: 30rem;
-    height: 30rem;
+    height: 40rem;
     padding-right: 200px;
     
 
@@ -125,6 +123,9 @@
 }
 .lmo .btn{
     padding: 10px 15px;
+}
+.last{
+    background-color: white;
 }
 .thelast{
     padding-bottom: 80px;

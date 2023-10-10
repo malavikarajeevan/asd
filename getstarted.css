@@ -1,8 +1,4 @@
-.abcd{
-    padding-left: 15%;
-    margin-bottom: 20px;
-}
-.ord{
+ord{
     
     margin-left: 400px;
 }
@@ -74,13 +70,14 @@
 }
 .one{
     background-color: rgb(249 250 251);
-    padding-bottom: 40px;
-    margin-top: 0;
+    padding-bottom: 50px;
+    margin-bottom: 40px;
+    margin-top: 1%;
 }
 .two{
     background-color: rgba(255, 255, 255, 0.99);
     width: 28%;
-    height: 60%;
+    height: 70%;
     margin-top: 1%;
     margin-left: 30%;
     margin-bottom: 10%;
@@ -88,18 +85,15 @@
      
     
 }
-.ww h1{
-    font-size: 2rem;
+.yy h1{
     margin-top: 30px;
+    font-size: 2.5rem;
     font-family: bolder;
 
     
   
     
 
-}
-.ww h6{
-    margin-bottom: 10px;
 }
 .cc {
    
@@ -110,7 +104,7 @@
 
 
 
-.sd{
+.ff{
     padding-left: 30px;
     padding-right: 30px;
     color: rgb(0, 0, 0);
@@ -121,7 +115,7 @@
     padding-bottom: 1%;
     padding-top: 30%;
 }
-.sdd{
+.mbb{
     background-color: rgb(255, 255, 255);
     padding-left: 20px;
     padding-right: 30px;
@@ -129,23 +123,17 @@
     padding-bottom: 1%;
     border-color: rgba(190, 175, 175, 0.781);
 }
-.form-check h1{
+
+.mlo h6{
     font-size: .8rem;
     font-weight: 300;
-    
-}
-.form-check h6{
-    font-size: .8rem;
-    font-weight: 300;
-    padding-left: 40%;
-}
-.form-check{
-    margin-top: 6%;
-    display:flex;
+    margin-top: 3%;
+    padding-left: 20%;
 }
 
-.bb .btn{
-    background-color: rgb(4, 125, 69);
+
+.jj .btn{
+    background-color: rgb(63, 141, 103);
     color: white;
     margin-top: 20px;
     font-size: 1rem;
@@ -155,20 +143,20 @@
 
  
 }
-.bb{
+.jj{
     display: flex;
     justify-content: center;
     background-color: rgb(255, 255, 255);
 }
-.nn{
+.xx{
     display: flex;
     justify-content: center;
     margin-top: 4%;
 }
-.nn hr{
+.xx hr{
     width: 30%;
 }
-.nn h5{
+.xx h5{
     font-size: 1rem;
     font-weight: 300;
 }
