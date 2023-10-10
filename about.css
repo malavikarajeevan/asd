@@ -56,7 +56,15 @@
     width: 100%;
     text-align: center;
     margin: auto;
+    margin-left: 900px;
+    padding-left: 200px;
 }
+/* .nn{
+    margin-left: 100px;
+}
+.kk{
+    margin-left: 300px;
+} */
 .seven{
     padding-right: 20px;
     margin-right: 15px;
